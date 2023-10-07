@@ -1,5 +1,9 @@
 #include <stdio.h>
-## This is the program that usese put
+/**
+ * main - Entry point of the program
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
