@@ -2,12 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * print_positive_or_negative - prints whether a number is positive, negative, or zero
- * @n: the integer to check
- *
- * This function takes an integer as input and prints whether it is positive,
- * negative, or zero. It uses the standard output for printing.
- */
+* print_positive_or_negative - prints whether a number is positive, negative, or zero
+* @n: the integer to check
+*
+* This function takes an integer as input and prints whether it is positive,
+* negative, or zero. It uses the standard output for printing.
+*/
 int main(void)
 {
 int n;
